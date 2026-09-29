@@ -1,0 +1,31 @@
+# --- Simulink / MATLAB build artefacts (regenerated automatically) ---
+slprj/
+build/
+*.slxc
+*.mexw64
+*.mexa64
+*.mexmaci64
+*.mexmaca64
+*.slx.r20*
+*.asv
+*.autosave
+*.mat.bak
+codegen/
+sccprj/
+
+# --- Third-party toolboxes (install separately, see README.md) ---
+YALMIP-master/
+YALMIP/
+sdpt3-master/
+sdpt3/
+sedumi-master/
+sedumi/
+
+# --- Course material and submissions (not redistributed) ---
+prufung/
+*.zip
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+desktop.ini

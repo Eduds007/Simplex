@@ -1,0 +1,17 @@
+* text=auto
+*.m    text diff=matlab
+*.c    text
+*.h    text
+*.txt  text
+*.md   text
+
+*.slx  binary
+*.mdl  binary
+*.fig  binary
+*.mat  binary
+*.mlx  binary
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.mp4  binary
